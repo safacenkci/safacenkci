@@ -68,7 +68,6 @@ Kurumsal firmalarda edindiğim staj deneyimleri sayesinde **otomasyon sistemleri
 ![Brisa Bridgestone Sabancı](https://img.shields.io/badge/Brisa%20Bridgestone%20Sabanc%C4%B1-Otomasyon%20Sistemleri-E4002B?style=for-the-badge)
 ![Social Office](https://img.shields.io/badge/Social%20Office-Dijital-1DA1F2?style=for-the-badge)
 ![Locomar](https://img.shields.io/badge/Locomar-Teknoloji-00897B?style=for-the-badge)
-![LC Waikiki](https://img.shields.io/badge/Locomar-Teknoloji-00897B?style=for-the-badge)
 ![Bi' Tıkla Sigorta](https://img.shields.io/badge/Bi'%20T%C4%B1kla%20Sigorta-Bilgi%20Teknolojileri-FF6F00?style=for-the-badge)
 ![DenizBank](https://img.shields.io/badge/DenizBank-Finans-005BAC?style=for-the-badge)
 
