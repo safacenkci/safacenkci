@@ -68,6 +68,7 @@ Kurumsal firmalarda edindiğim staj deneyimleri sayesinde **otomasyon sistemleri
 ![Brisa Bridgestone Sabancı](https://img.shields.io/badge/Brisa%20Bridgestone%20Sabanc%C4%B1-Otomasyon%20Sistemleri-E4002B?style=for-the-badge)
 ![Social Office](https://img.shields.io/badge/Social%20Office-Dijital-1DA1F2?style=for-the-badge)
 ![Locomar](https://img.shields.io/badge/Locomar-Teknoloji-00897B?style=for-the-badge)
+![LC Waikiki](https://img.shields.io/badge/Locomar-Teknoloji-00897B?style=for-the-badge)
 ![Bi' Tıkla Sigorta](https://img.shields.io/badge/Bi'%20T%C4%B1kla%20Sigorta-Bilgi%20Teknolojileri-FF6F00?style=for-the-badge)
 ![DenizBank](https://img.shields.io/badge/DenizBank-Finans-005BAC?style=for-the-badge)
 
@@ -100,7 +101,6 @@ Gönüllü çalışmalarım, toplumsal fayda yaratma konusundaki kararlılığı
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
