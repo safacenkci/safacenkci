@@ -48,10 +48,10 @@ Bugüne kadar **ÜNİDES Dijital Portal**, **Focus Flow**, **Eventix** ve **Cher
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <a href="https://github.com/safarahmancenkci">
+  <a href="https://github.com/safacenkci">
     <img src="https://github-readme-stats.vercel.app/api?username=safarahmancenkci&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Safa Rahman's GitHub Stats" width="48%" />
   </a>
-  <a href="https://github.com/safarahmancenkci">
+  <a href="https://github.com/safacenkci">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safarahmancenkci&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
   </a>
 </p>
